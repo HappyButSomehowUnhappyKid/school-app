@@ -1,0 +1,31 @@
+body{
+    scroll-behavior: smooth;
+    text-align: center;
+}
+#Vida_No_Campus{
+    text-decoration:underline;
+}
+#conquistas{
+    text-decoration:underline;
+}
+#list{
+    list-style:decimal;
+    margin-left:45%;
+    margin-right:55%;
+}
+.item{
+    text-decoration: underline;
+}
+#O_Que_Ha_De_Novo{
+    text-decoration:underline;
+}
+#Entre_Em_Contato{
+    text-decoration: underline;
+}
+#Mais_Informações{
+    text-decoration: underline;
+    background-color: rgb(198,0,0);
+}
+#nome_da_escola{
+    text-decoration: underline;
+}
