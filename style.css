@@ -1,6 +1,8 @@
 body{
-    scroll-behavior: smooth;
     text-align: center;
+}
+html{
+    scroll-behavior: smooth;
 }
 #Vida_No_Campus{
     text-decoration:underline;
